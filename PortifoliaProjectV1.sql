@@ -1,3 +1,9 @@
+/*
+Covid 19 Data Exploration 
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+*/
+
+
 SELECT count(*)
 FROM covid_data_csv cdc ;
 
@@ -6,9 +12,6 @@ FROM covid_data_csv cdc
 order by 1 desc
 limit 11755 ;
 
-
-SELECT DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS 
-  WHERE table_name = 'tbl_name' AND COLUMN_NAME = 'col_name';  
 
  -- CHECKING COLUMNS DATATYPE
  DESCRIBE Portifolio_Proj.covid_data_csv 
