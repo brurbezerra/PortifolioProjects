@@ -1,5 +1,4 @@
-##Let's create a API with Python
-
+##Let's create a API with Python using https://replit.com/ platform
 
 import pandas as pd
 from flask import Flask, jsonify ##transforms python dictionary in json
