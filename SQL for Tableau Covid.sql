@@ -2,9 +2,11 @@
 
 Queries used for Tableau Project
 
+
+Link for Tableau Dashbord - https://dub01.online.tableau.com/t/brudata/views/CovidDashboard_16765873794400/Dashboard1
+
+
 */
-
-
 
 -- 1. 
 
